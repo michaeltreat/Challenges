@@ -13,6 +13,10 @@ Let's decode cseerntiofarmit on using our crazy key.
 
 1 2 3 4 5
 
+
+TEST:
+
+deNico("crazy", "cseerntiofarmit on  ") should return "secretinformation".
 */
 
 const deNico = (key, m) => { 
